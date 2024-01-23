@@ -1,0 +1,6 @@
+export * from './DashboardPage'
+export * from './DragonPage'
+export * from './DragonsPage'
+export * from './FormEditPage'
+export * from './ConfigPage'
+export * from './SignInPage'
